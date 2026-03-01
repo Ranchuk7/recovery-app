@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="120" fill="#000"/>
+  <circle cx="256" cy="200" r="80" fill="none" stroke="#0a84ff" stroke-width="12"/>
+  <path d="M 150 350 A 106 106 0 0 1 362 350" fill="none" stroke="#0a84ff" stroke-width="12" stroke-linecap="round"/>
+  <path d="M 180 440 L 256 380 L 332 440" fill="none" stroke="#34c759" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="256" y="490" text-anchor="middle" fill="#ffd60a" font-size="36" font-family="-apple-system,sans-serif" font-weight="800">REHA</text>
+</svg>
